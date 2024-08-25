@@ -1,0 +1,14 @@
+{
+  "name": "dogparksapp",
+  "version": "1.0.0",
+  "description": "It's an app that shows you the nearest dog parks near you",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Ochoa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
